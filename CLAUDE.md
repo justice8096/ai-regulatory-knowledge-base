@@ -45,3 +45,19 @@ src/
 - Regulation files use metadata headers: session number, upload date, author, laws covered
 - Always distinguish enacted/binding law from voluntary/proposed frameworks
 - Includes a disclaimer that this is research, not legal advice
+
+
+## LLM Compliance Integration
+This project is part of the LLM Compliance Evidence Collection pipeline from D:\LLMComplianceSkill.
+
+### Pipeline Position
+This project provides the **regulatory reference knowledge base** — jurisdiction-specific guidance used throughout the compliance pipeline.
+
+### Coverage
+12 jurisdictions: EU, UK, US, Canada, China, Japan/South Korea, India/Singapore/ASEAN, Australia, New Zealand, Mexico/Latin America, Africa, plus a Global Overview with comparison matrices and timelines.
+
+### Related Projects
+- **ai-compliance-extractors** — Auto-extracts evidence from repos
+- **compliance-autofill** — Fills evidence templates
+- **compliance-assessment-tools** — Interactive assessment wizards
+- **ai-compliance-plugin** — Cowork plugin for the full pipeline
