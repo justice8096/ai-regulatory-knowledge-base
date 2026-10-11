@@ -1,6 +1,6 @@
 {
   "name": "ai-regulatory-knowledge-base",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Comprehensive AI regulatory knowledge base with 13 jurisdictions and world map visualization",
   "type": "module",
   "main": "src/index.js",
@@ -18,7 +18,7 @@
     "jurisdictions"
   ],
   "author": "Justice",
-  "license": "MIT",
+  "license": "CC0-1.0",
   "engines": {
     "node": ">=14.0.0"
   },

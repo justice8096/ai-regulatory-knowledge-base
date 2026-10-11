@@ -6,15 +6,15 @@ Comprehensive AI regulatory database covering 13 major jurisdictions plus global
 
 Complete regulatory landscape for:
 
-- **EU** — AI Act, GDPR, ePrivacy Directive
-- **United States** — Federal, state, and sector regulations
-- **UK** — Online Safety Bill, DUA Act, ASJC
-- **China** — GenAI Interim Measures, Cybersecurity Law
-- **Japan & South Korea** — AI governance frameworks
-- **Canada, Australia, New Zealand** — Privacy and AI regulations
-- **India & Singapore** — Emerging AI governance
-- **Africa & Latin America** — Regional approaches
-- **Global Standards** — NIST, ISO, industry frameworks
+- **EU** - AI Act, GDPR, ePrivacy Directive
+- **United States** - Federal, state, and sector regulations
+- **UK** - Online Safety Bill, DUA Act, ASJC
+- **China** - GenAI Interim Measures, Cybersecurity Law
+- **Japan & South Korea** - AI governance frameworks
+- **Canada, Australia, New Zealand** - Privacy and AI regulations
+- **India & Singapore** - Emerging AI governance
+- **Africa & Latin America** - Regional approaches
+- **Global Standards** - NIST, ISO, industry frameworks
 
 ## Quick Start
 
@@ -83,23 +83,23 @@ Can be embedded in:
 ## Jurisdictions
 
 ### Tier 1: Comprehensive Regulation
-- **EU** — Most detailed, AI Act with implementation timeline
-- **China** — Fast-moving regulatory environment
-- **UK** — Post-Brexit regulatory approach
-- **US** — Multi-level (federal + state) framework
+- **EU** - Most detailed, AI Act with implementation timeline
+- **China** - Fast-moving regulatory environment
+- **UK** - Post-Brexit regulatory approach
+- **US** - Multi-level (federal + state) framework
 
 ### Tier 2: Active Development
-- **Japan** — AI governance guidelines
-- **South Korea** — AI Basic Act
-- **Canada** — AIDA (In progress)
-- **Australia** — AI governance principles
+- **Japan** - AI governance guidelines
+- **South Korea** - AI Basic Act
+- **Canada** - AIDA (In progress)
+- **Australia** - AI governance principles
 
 ### Tier 3: Emerging
-- **India** — Sector-specific approaches
-- **Singapore** — Innovation-friendly framework
-- **New Zealand** — Privacy-first approach
-- **Africa** — Continental standards
-- **Latin America** — Regional regulations
+- **India** - Sector-specific approaches
+- **Singapore** - Innovation-friendly framework
+- **New Zealand** - Privacy-first approach
+- **Africa** - Continental standards
+- **Latin America** - Regional regulations
 
 ## Use Cases
 
@@ -200,13 +200,17 @@ Get markdown index and usage guide.
 
 ## Performance
 
-- **Size** — ~2 MB of regulation markdown
-- **Search Speed** — <100ms across all jurisdictions
-- **Load Time** — Instant (synchronous file reads)
-- **Memory** — Minimal (loads on-demand)
+- **Size** - ~2 MB of regulation markdown
+- **Search Speed** - <100ms across all jurisdictions
+- **Load Time** - Instant (synchronous file reads)
+- **Memory** - Minimal (loads on-demand)
+
+## Data Freshness
+
+All regulation files carry a `Last Updated` header. Current research date: **2026-10-11**. Highlights of the October 2026 refresh: EU Digital Omnibus (Reg. 2026/1744) high-risk delay to Dec 2027 / Aug 2028; Colorado SB 26-189 replacing the Colorado AI Act; frontier-model laws in CA, NY and IL; South Korea AI Basic Act in force; Vietnam Law on AI in force; India synthetic-content labelling rules; China companion-AI measures; Australia's announced AI standards legislation.
 
 ## License
 
-MIT License © 2026 Justice
+CC0 1.0 Universal (public domain dedication). See LICENSE.
 
 Regulation content is compiled from publicly available sources and included for reference and educational purposes.
