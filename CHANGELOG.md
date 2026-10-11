@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1 - 2026-10-11
+
+- US: added the Sep 29, 2026 executive order "Inaugurating the Era of Super Intelligence" (executive-branch terminology change from AI to SI, defined by reference to 15 U.S.C. 9401(3); 60-day legislative-language deadline about Nov 28, 2026; voluntary White House Accord on Super Intelligence). Global Overview timeline and world map tooltip updated. No change to any binding obligation.
+
 ## 1.1.0 - 2026-10-11
 
 ### Content

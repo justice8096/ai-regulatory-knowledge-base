@@ -207,7 +207,7 @@ Get markdown index and usage guide.
 
 ## Data Freshness
 
-All regulation files carry a `Last Updated` header. Current research date: **2026-10-11**. Highlights of the October 2026 refresh: EU Digital Omnibus (Reg. 2026/1744) high-risk delay to Dec 2027 / Aug 2028; Colorado SB 26-189 replacing the Colorado AI Act; frontier-model laws in CA, NY and IL; South Korea AI Basic Act in force; Vietnam Law on AI in force; India synthetic-content labelling rules; China companion-AI measures; Australia's announced AI standards legislation.
+All regulation files carry a `Last Updated` header. Current research date: **2026-10-11**. Highlights of the October 2026 refresh: EU Digital Omnibus (Reg. 2026/1744) high-risk delay to Dec 2027 / Aug 2028; Colorado SB 26-189 replacing the Colorado AI Act; frontier-model laws in CA, NY and IL; South Korea AI Basic Act in force; Vietnam Law on AI in force; India synthetic-content labelling rules; China companion-AI measures; Australia's announced AI standards legislation; US executive order (Sep 29, 2026) renaming AI to "Super Intelligence" in federal documents (terminology only).
 
 ## License
 
