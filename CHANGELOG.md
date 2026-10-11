@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.0 - 2026-10-11
+
+- Added "Executive Instruments to Watch" to all 11 jurisdiction files (issuer, publication source, mandate end) and an "Executive Instruments and Political Sunsets" table to the Global Overview with term-end dates for 22 executives. Instruments survive a change of leader until revoked; the dates mark re-verification points.
+- US: added EO 14409 "Promoting Advanced AI Innovation and Security" (Jun 2, 2026).
+- Leadership changes recorded: UK (PM Burnham, Jul 2026), Vietnam (PM Le Minh Hung, Apr 2026), Chile (Kast, Mar 2026), Peru (K. Fujimori, Jul 2026), Colombia (De la Espriella, Aug 2026), Japan snap election (Feb 2026).
+
 ## 1.1.1 - 2026-10-11
 
 - US: added the Sep 29, 2026 executive order "Inaugurating the Era of Super Intelligence" (executive-branch terminology change from AI to SI, defined by reference to 15 U.S.C. 9401(3); 60-day legislative-language deadline about Nov 28, 2026; voluntary White House Accord on Super Intelligence). Global Overview timeline and world map tooltip updated. No change to any binding obligation.
